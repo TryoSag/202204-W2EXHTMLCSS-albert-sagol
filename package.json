@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "to_production": "",
+    "to_production": "sass sass/style.scss css/style.css",
     "prepare": "husky install"
   },
   "repository": {
