@@ -1,0 +1,27 @@
+{
+  "name": "202204-w2exhtmlcss-albert-sagol",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "to_production": "",
+    "prepare": "husky install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TryoSag/202204-W2EXHTMLCSS-albert-sagol.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TryoSag/202204-W2EXHTMLCSS-albert-sagol/issues"
+  },
+  "homepage": "https://github.com/TryoSag/202204-W2EXHTMLCSS-albert-sagol#readme",
+  "dependencies": {
+    "sass": "^1.50.0"
+  },
+  "devDependencies": {
+    "husky": "^7.0.0"
+  }
+}
